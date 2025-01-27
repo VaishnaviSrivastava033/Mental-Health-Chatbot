@@ -101,3 +101,6 @@ This project is licensed under the [MIT License](LICENSE).
 - [HuggingFace](https://huggingface.co/)
 - [Chroma](https://www.trychroma.com/)
 - [Gradio](https://gradio.app/)
+
+## Live URL
+-https://68580879c8acaf2b87.gradio.live/
