@@ -34,8 +34,7 @@ This project is a compassionate mental health chatbot designed to assist users w
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mental-health-chatbot.git
-   cd mental-health-chatbot
+   git clone https://github.com/VaishnaviSrivastava033/Mental-Health-Chatbot
    ```
 
 2. Install dependencies:
